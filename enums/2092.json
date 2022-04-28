@@ -6,8 +6,8 @@
     "defaultInt": 0,
     "size": 3,
     "params": {
-        "0": "Started",
+        "0": "In Progress",
         "1": "Not Started",
-        "2": "Finished"
+        "2": "Completed"
     }
 }

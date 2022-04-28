@@ -4,7 +4,7 @@
     "valType": "STRING",
     "defaultString": "Make",
     "defaultInt": 0,
-    "size": 23,
+    "size": 24,
     "params": {
         "2": "Make sets:",
         "3": "Make sets:",
@@ -28,6 +28,7 @@
         "21": "Light",
         "22": "Make",
         "23": "Take",
-        "24": "Give"
+        "24": "Give",
+        "25": "Smith"
     }
 }

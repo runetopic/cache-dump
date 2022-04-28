@@ -1,6 +1,6 @@
 {
     "id": 20271,
-    "name": "Floor",
+    "name": "Trap",
     "width": 1,
     "height": 1,
     "interactType": 0,
@@ -14,7 +14,7 @@
     "ambient": 0,
     "contrast": 0,
     "actions": [
-        "Search",
+        "Evade",
         "null",
         "null",
         "null",

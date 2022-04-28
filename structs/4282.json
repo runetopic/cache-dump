@@ -1,0 +1,14 @@
+{
+    "id": 4282,
+    "params": {
+        "1077": 230,
+        "1078": 0,
+        "1086": "Vibrate on drag",
+        "1088": "vibrate,haptic,feedback,rumble",
+        "1096": "When enabled, your device will vibrate when you begin dragging something in an interface.",
+        "1085": 1,
+        "1157": 1,
+        "740": 1,
+        "1084": 1
+    }
+}

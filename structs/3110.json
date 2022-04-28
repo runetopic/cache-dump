@@ -1,8 +1,12 @@
 {
     "id": 3110,
     "params": {
-        "1251": "Level-up broadcasts",
-        "1252": "Rank required to receive notifications when clan members reach milestone levels on a standard or Deadman world.",
-        "1292": 1
+        "1077": 216,
+        "1088": "quest,quests,quest list,questlist,recommended,recommendations,restrictions,show,hide,stats",
+        "1078": 2,
+        "1086": "Show quests you lack the recommended stats for",
+        "1091": 4245,
+        "1096": "Determines how quests that you lack the recommended stats for are shown.",
+        "1565": 1
     }
 }

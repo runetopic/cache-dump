@@ -1,13 +1,11 @@
 {
     "id": 3752,
     "params": {
-        "1077": 201,
+        "1077": 220,
         "1078": 0,
-        "1086": "Iron Group loot broadcasts",
-        "1088": "Iron Group loot broadcasts,loot drop notification,loot drop,Notifications,Iron,Iron Group,GIM,Broadcast",
-        "1096": "Broadcasts a message to your Iron Group chat that lets your group know when you receive a valuable item drop. This is based on the threshold you set.",
-        "1085": 1,
-        "1414": 1,
-        "1084": 1
+        "1086": "Hide miniquests",
+        "1088": "quest,quests,quest list,questlist,show,hide,miniquest,miniquests,mini quest,mini-quest",
+        "1096": "Hides miniquests in the quest list.",
+        "1565": 1
     }
 }

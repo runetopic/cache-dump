@@ -1,0 +1,10 @@
+{
+    "id": 4286,
+    "params": {
+        "1077": 239,
+        "1078": 0,
+        "1086": "Hide quest list headers",
+        "1088": "quest,quests,quest list,questlist,header,headers,title,titles,category,categories,show,hide",
+        "1096": "Hides category headers in the quest list."
+    }
+}

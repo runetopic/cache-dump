@@ -1,0 +1,8 @@
+{
+    "id": 4223,
+    "params": {
+        "1537": 1,
+        "1163": "Loot broadcast value",
+        "1536": "The minimum value for notable monster loot to trigger a group notification message."
+    }
+}

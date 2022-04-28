@@ -23,7 +23,7 @@
     "mapIconId": -1,
     "mapSceneId": 6,
     "isRotated": false,
-    "clipped": true,
+    "clipped": false,
     "modelSizeX": 80,
     "modelHeight": 80,
     "modelSizeY": 80,

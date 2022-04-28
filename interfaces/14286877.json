@@ -65,7 +65,7 @@
     "textShadowed": false,
     "paddingX": 0,
     "paddingY": 0,
-    "flags": 14,
+    "flags": 62,
     "field3299": false,
     "dataText": "",
     "dragZoneSize": 0,
@@ -97,6 +97,8 @@
     "actions": [
         "*",
         "Outside",
+        "*",
+        "*",
         "*"
     ],
     "itemIds": [

@@ -4,7 +4,7 @@
     "valType": "STRING",
     "defaultString": "",
     "defaultInt": 0,
-    "size": 36,
+    "size": 46,
     "params": {
         "0": "",
         "1": "<col=ffffff>Ahrim The Blighted:<br><br>Blighted Aura:<br><br>Magic Attacks have a 25% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>",
@@ -41,6 +41,16 @@
         "26": "<col=ffffff>Bloodbark armour:<br><br>The full set increases the amount healed by Blood spells by 32.5%.<br><br>",
         "27": "<col=ffffff>Zealot's prayer robes:<br><br>The full set grants a 5% chance of saving ensouled heads when reanimating them and saving bones when burying or offering them. This stacks with the Wilderness altar's bone saving effect.<br><br>",
         "28": "<col=ffffff>Spirit Angler outfit:<br><br>XP from training Fishing will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>Full set acts as a tether rope when fighting Tempoross.<br><br>",
-        "29": "<col=ffffff>Virtus Robes:<br><br>9% increased Magic damage with ancient spells.<br><br>Smoke spells reduce healing received by 30%, as long as the target is poisoned.<br><br>Shadow spells also drain Strength, Ranged, Magic and Defence, as well as Attack.<br><br>Blood spells can heal up to 20% over your maximum hitpoints.<br><br>Ice spells gain 10% additional accuracy against frozen targets."
+        "29": "\"<col=ffffff>Virtus Robes:<br><br>9% increased Magic damage with ancient spells.<br><br>Smoke spells reduce healing received by 30%, as long as the target is poisoned.<br><br>Shadow spells also drain Strength, Ranged, Magic and Defence, as well as Attack.<br><br>Blood spells can heal up to 20% over your maximum hitpoints.<br><br>Ice spells gain 10% additional accuracy against frozen targets.\"// 30 - 38 taken for PvP Arena gear.",
+        "30": "<col=ffffff>Maoma's med set:<br><br>Gain a +20% boost to your melee accuracy.<br>Gain a +3% boost to your melee damage.",
+        "31": "<col=ffffff>Koriff's headband set:<br><br>Gain a +15% boost to your ranged accuracy.<br>Gain a +7.5% boost to your ranged damage.",
+        "32": "<col=ffffff>Saika's hood set<br><br>Gain a +50% boost to your magic accuracy.<br>Gain a +3% boost to your magic damage.",
+        "33": "<col=ffffff>Maoma's Superior set<br><br>Gain a +25% boost to your melee accuracy.<br>Gain a +4% boost to your melee damage.",
+        "34": "<col=ffffff>Koriff's cowl set:<br><br>Gain a +20% boost to your ranged accuracy.<br>Gain a +10% boost to your ranged damage.",
+        "35": "<col=ffffff>Saika's veil<br><br>Gain a +55% boost to your magic accuracy.<br>Gain a +4% boost to your magic damage.",
+        "36": "<col=ffffff>Maoma's Elite set<br><br>Gain a +30% boost to your melee accuracy.<br>Gain a +5% boost to your melee damage.",
+        "37": "<col=ffffff>Koriff's coif set:<br><br>Gain a +25% boost to your ranged accuracy.<br>Gain a +12.5% boost to your ranged damage.",
+        "38": "<col=ffffff>Saika's shroud<br><br>Gain a +60% boost to your magic accuracy.<br>Gain a +5% boost to your magic damage.",
+        "39": "<col=ffffff>Raiments of the Eye:<br><br>Runes crafted are increased by 60%.<br><br>This bonus stacks additively with other similar effects.<br><br>"
     }
 }

@@ -1,0 +1,11 @@
+{
+    "id": 4251,
+    "params": {
+        "1077": 227,
+        "1088": "quest,quests,quest list,questlist,text,color,colour,font,unavailable,not available,locked,blocked,colourblind,colorblind,blind,eyesight,vision,accessibility",
+        "1078": 9,
+        "1230": 10461087,
+        "1086": "Unavailable quest text colour",
+        "1096": "Determines the text colour for unavailable quests in your quest list."
+    }
+}

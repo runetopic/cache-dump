@@ -25,7 +25,7 @@
     "contrast": 0,
     "headIconPrayer": -1,
     "rotation": 32,
-    "transformVarbit": 2378,
+    "transformVarbit": 13594,
     "transformVarp": -1,
     "isInteractable": true,
     "isClickable": true,
@@ -34,12 +34,8 @@
     ],
     "transforms": [
         671,
-        671,
-        671,
-        671,
         672,
         673,
-        671,
         -1
     ],
     "params": {

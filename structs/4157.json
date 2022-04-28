@@ -1,0 +1,11 @@
+{
+    "id": 4157,
+    "params": {
+        "1077": 224,
+        "1088": "quest,quests,quest list,questlist,text,color,colour,font,unstarted,not started,colourblind,colorblind,blind,eyesight,vision,accessibility",
+        "1078": 9,
+        "1230": 16711680,
+        "1086": "Unstarted quest text colour",
+        "1096": "Determines the text colour for unstarted quests in your quest list."
+    }
+}

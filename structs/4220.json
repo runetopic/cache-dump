@@ -1,0 +1,8 @@
+{
+    "id": 4220,
+    "params": {
+        "1163": "Post-99 XP broadcast intervals",
+        "1536": "Trigger a group notification message every multiple of this XP above level 99 in a skill.",
+        "1537": 1
+    }
+}

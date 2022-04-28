@@ -1,0 +1,12 @@
+{
+    "id": 4222,
+    "keyType": "INTEGER",
+    "valType": "STRING",
+    "defaultString": "Select",
+    "defaultInt": 0,
+    "size": 2,
+    "params": {
+        "0": "Basic",
+        "1": "Elven"
+    }
+}

@@ -3,9 +3,9 @@
     "field2079": -1,
     "field2082": 0,
     "field2083": 0,
-    "frameCount": 1,
+    "frameCount": -1,
     "field2091": false,
-    "field2092": 5,
+    "field2092": 8,
     "shield": -1,
     "weapon": -1,
     "field2095": 99,
@@ -18,7 +18,7 @@
         3,
         3,
         2,
-        4
+        30
     ],
     "frameIds": [
         44630021,

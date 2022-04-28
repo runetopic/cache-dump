@@ -1,0 +1,8 @@
+{
+    "id": 4238,
+    "params": {
+        "1251": "Post-99 XP broadcast intervals",
+        "1252": "Trigger a clan notification message every multiple of this XP above level 99 in a skill.",
+        "1255": 1
+    }
+}

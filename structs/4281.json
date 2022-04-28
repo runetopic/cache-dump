@@ -1,0 +1,14 @@
+{
+    "id": 4281,
+    "params": {
+        "1077": 229,
+        "1078": 0,
+        "1086": "Vibrate on interaction",
+        "1088": "vibrate,haptic,feedback,rumble",
+        "1096": "When enabled, your device will vibrate when you perform any non-interface interaction (except Walk-here).",
+        "1085": 1,
+        "1157": 1,
+        "740": 1,
+        "1084": 1
+    }
+}

@@ -1,6 +1,6 @@
 {
     "id": 6606,
-    "name": "Centre piece",
+    "name": "Suntrap",
     "width": 1,
     "height": 1,
     "interactType": 2,
@@ -14,7 +14,7 @@
     "ambient": 0,
     "contrast": 0,
     "actions": [
-        "Search",
+        "Use",
         "null",
         "null",
         "null",

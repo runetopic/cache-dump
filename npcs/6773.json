@@ -10,7 +10,7 @@
     "walkLeftSequence": 821,
     "walkRightSequence": 822,
     "actions": [
-        "Talk to",
+        "Talk-to",
         "null",
         "Toggle warnings",
         "null",

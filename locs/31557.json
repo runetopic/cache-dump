@@ -1,7 +1,7 @@
 {
     "id": 31557,
-    "name": "Opening",
-    "width": 3,
+    "name": "Trapdoor",
+    "width": 2,
     "height": 2,
     "interactType": 2,
     "blockProjectile": true,
@@ -14,7 +14,7 @@
     "ambient": 15,
     "contrast": 375,
     "actions": [
-        "Exit",
+        "null",
         "null",
         "null",
         "null",

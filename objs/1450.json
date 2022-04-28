@@ -1,16 +1,16 @@
 {
     "id": 1450,
-    "model": 2521,
-    "name": "Null",
-    "zoom2d": 1940,
-    "xan2d": 572,
-    "yan2d": 0,
+    "model": 2475,
+    "name": "Blood talisman",
+    "zoom2d": 1160,
+    "xan2d": 352,
+    "yan2d": 160,
     "zan2d": 0,
-    "offsetX2d": 0,
-    "offsetY2d": 1,
+    "offsetX2d": 2,
+    "offsetY2d": 20,
     "isStackable": 0,
-    "price": 1,
-    "isMembersOnly": false,
+    "price": 4,
+    "isMembersOnly": true,
     "groundActions": [
         "null",
         "null",
@@ -19,10 +19,10 @@
         "null"
     ],
     "inventoryActions": [
-        "Wear",
         "null",
         "null",
         "null",
+        "Locate",
         "Drop"
     ],
     "shiftClickIndex": -2,
@@ -38,7 +38,7 @@
     "maleHeadModel2": -1,
     "femaleHeadModel": -1,
     "femaleHeadModel2": -1,
-    "note": -1,
+    "note": 1451,
     "noteTemplate": -1,
     "resizeX": 128,
     "resizeY": 128,
@@ -46,11 +46,12 @@
     "ambient": 0,
     "contrast": 0,
     "team": 0,
-    "isTradable": false,
+    "isTradable": true,
     "unnotedId": -1,
     "notedId": -1,
-    "placeholder": -1,
+    "placeholder": 26783,
     "placeholderTemplate": -1,
     "params": {
+        "983": 4297
     }
 }

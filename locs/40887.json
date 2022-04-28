@@ -28,7 +28,7 @@
     "modelHeight": 128,
     "modelSizeY": 128,
     "offsetX": 0,
-    "offsetHeight": 80,
+    "offsetHeight": 0,
     "offsetY": 0,
     "boolean2": false,
     "breakRouteFinding": false,

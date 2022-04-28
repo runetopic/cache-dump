@@ -1,0 +1,8 @@
+{
+    "id": 4247,
+    "params": {
+        "1255": 1,
+        "1251": "PK broadcast value",
+        "1252": "Minimum value for player kills to trigger a clan notification message."
+    }
+}

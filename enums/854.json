@@ -4,7 +4,7 @@
     "valType": "BOOLEAN",
     "defaultString": "null",
     "defaultInt": 0,
-    "size": 34,
+    "size": 35,
     "params": {
         "4": 1,
         "8": 1,
@@ -39,6 +39,7 @@
         "46": 1,
         "47": 1,
         "49": 1,
-        "50": 1
+        "50": 1,
+        "52": 1
     }
 }

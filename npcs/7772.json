@@ -10,7 +10,7 @@
     "walkLeftSequence": -1,
     "walkRightSequence": -1,
     "actions": [
-        "Talk to",
+        "Talk-to",
         "null",
         "Toggle Fossils",
         "null",

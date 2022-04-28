@@ -1,0 +1,11 @@
+{
+    "id": 4249,
+    "params": {
+        "1077": 225,
+        "1088": "quest,quests,quest list,questlist,text,color,colour,font,progress,started,in progress,in-progress,colourblind,colorblind,blind,eyesight,vision,accessibility",
+        "1078": 9,
+        "1230": 16776960,
+        "1086": "In progress quest text colour",
+        "1096": "Determines the text colour for quests in progress in your quest list."
+    }
+}

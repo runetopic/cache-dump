@@ -1,6 +1,6 @@
 {
     "id": 4913,
-    "name": "Brimstail",
+    "name": "null",
     "size": 1,
     "idleSequence": 195,
     "turnLeftSequence": -1,
@@ -10,9 +10,9 @@
     "walkLeftSequence": -1,
     "walkRightSequence": -1,
     "actions": [
-        "Talk-to",
         "null",
-        "Teleport",
+        "null",
+        "null",
         "null",
         "null"
     ],
@@ -26,17 +26,20 @@
     "headIconPrayer": -1,
     "rotation": 32,
     "transformVarbit": -1,
-    "transformVarp": -1,
+    "transformVarp": 63,
     "isInteractable": true,
     "isClickable": true,
     "isFollower": false,
     "models": [
-        17000,
-        16986,
-        17014,
-        17007
     ],
     "transforms": [
+        11430,
+        11430,
+        11430,
+        11430,
+        11430,
+        11430,
+        11431
     ],
     "params": {
     }

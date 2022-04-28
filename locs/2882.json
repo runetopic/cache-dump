@@ -1,12 +1,12 @@
 {
     "id": 2882,
-    "name": "Gate",
-    "width": 1,
-    "height": 1,
+    "name": "null",
+    "width": 5,
+    "height": 4,
     "interactType": 2,
     "blockProjectile": true,
-    "int1": -1,
-    "clipType": -1,
+    "int1": 1,
+    "clipType": 0,
     "nonFlatShading": false,
     "modelClipped": false,
     "animationId": -1,
@@ -14,10 +14,10 @@
     "ambient": 0,
     "contrast": 0,
     "actions": [
-        "Open",
         "null",
         "null",
-        "Pay-toll(10gp)",
+        "null",
+        "null",
         "null"
     ],
     "mapIconId": -1,
@@ -33,7 +33,7 @@
     "boolean2": false,
     "breakRouteFinding": false,
     "int3": -1,
-    "transformVarbit": -1,
+    "transformVarbit": 13853,
     "transformVarp": -1,
     "ambientSoundId": -1,
     "int7": 0,
@@ -41,6 +41,9 @@
     "int6": 0,
     "boolean3": true,
     "transforms": [
+        43888,
+        43887,
+        43888
     ],
     "params": {
     }

@@ -12,7 +12,7 @@
     "actions": [
         "Talk-to",
         "null",
-        "Trade",
+        "null",
         "null",
         "null"
     ],
@@ -43,5 +43,6 @@
     "transforms": [
     ],
     "params": {
+        "1609": 11597
     }
 }

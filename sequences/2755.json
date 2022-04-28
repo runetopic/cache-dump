@@ -3,7 +3,7 @@
     "field2079": -1,
     "field2082": 0,
     "field2083": 0,
-    "frameCount": -1,
+    "frameCount": 1,
     "field2091": false,
     "field2092": 5,
     "shield": -1,
@@ -13,6 +13,7 @@
     "field2097": -1,
     "field2078": 2,
     "frameLengths": [
+        5,
         5,
         5,
         5,
@@ -30,7 +31,8 @@
         93388852,
         93388853,
         93388854,
-        93388855
+        93388855,
+        93388901
     ],
     "chatFrameIds": [
     ]

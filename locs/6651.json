@@ -1,11 +1,11 @@
 {
     "id": 6651,
-    "name": "Bridge",
+    "name": "null",
     "width": 7,
     "height": 2,
     "interactType": 2,
     "blockProjectile": true,
-    "int1": -1,
+    "int1": 0,
     "clipType": -1,
     "nonFlatShading": true,
     "modelClipped": false,
@@ -21,7 +21,7 @@
         "null"
     ],
     "mapIconId": -1,
-    "mapSceneId": 46,
+    "mapSceneId": -1,
     "isRotated": false,
     "clipped": true,
     "modelSizeX": 128,

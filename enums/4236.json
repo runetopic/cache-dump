@@ -1,0 +1,11 @@
+{
+    "id": 4236,
+    "keyType": "INTEGER",
+    "valType": "BOOLEAN",
+    "defaultString": "null",
+    "defaultInt": 1,
+    "size": 1,
+    "params": {
+        "2": 0
+    }
+}

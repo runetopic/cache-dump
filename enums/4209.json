@@ -1,0 +1,13 @@
+{
+    "id": 4209,
+    "keyType": "STRUCT",
+    "valType": "BOOLEAN",
+    "defaultString": "null",
+    "defaultInt": 0,
+    "size": 3,
+    "params": {
+        "348": 1,
+        "603": 1,
+        "3150": 1
+    }
+}

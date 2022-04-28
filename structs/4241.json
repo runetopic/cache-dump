@@ -1,0 +1,8 @@
+{
+    "id": 4241,
+    "params": {
+        "1255": 1,
+        "1251": "Level-up increments of 1",
+        "1252": "Trigger a clan notification message for every level-up gained by a clan member, starting from this value."
+    }
+}

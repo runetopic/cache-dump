@@ -2,17 +2,17 @@
     "id": 2097,
     "keyType": "INTEGER",
     "valType": "STRING",
-    "defaultString": "No Series",
+    "defaultString": "Standalone",
     "defaultInt": 0,
-    "size": 18,
+    "size": 21,
     "params": {
         "0": "Camelot",
-        "1": "Desert",
+        "1": "Kharidian",
         "2": "Dorgeshuun",
         "3": "Dragonkin",
         "4": "Elemental Workshop",
         "5": "Elf",
-        "6": "Fairy",
+        "6": "Fairytale",
         "7": "Fremennik",
         "8": "Gnome",
         "9": "Mahjarrat",
@@ -21,8 +21,11 @@
         "12": "Pirate",
         "13": "Rag and Bone Man",
         "14": "Red Axe",
-        "15": "Sea Slug",
+        "15": "Temple Knight",
         "16": "Troll",
-        "17": "Kourend"
+        "17": "Kourend",
+        "18": "Demon Slayer",
+        "19": "Order of Wizards",
+        "20": "Miscellania"
     }
 }

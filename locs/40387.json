@@ -1,6 +1,6 @@
 {
     "id": 40387,
-    "name": "Opening",
+    "name": "Blocked opening",
     "width": 3,
     "height": 2,
     "interactType": 2,
@@ -14,7 +14,7 @@
     "ambient": 15,
     "contrast": 375,
     "actions": [
-        "Exit",
+        "null",
         "null",
         "null",
         "null",

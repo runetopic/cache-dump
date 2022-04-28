@@ -1,0 +1,14 @@
+{
+    "id": 4278,
+    "params": {
+        "1077": 236,
+        "1078": 4,
+        "1111": "ms",
+        "1112": "ms",
+        "1086": "Anti Drag - Delay",
+        "1088": "antidrag,anti drag,shift key,anti drag shift key,antidrag shift key,ctrl,control,controls",
+        "1096": "Delay, in milliseconds, between dragging an item in the inventory and when it will actually start being dragged. Useful for preventing accidental drags. Value will be rounded to the nearest 20ms (max 5000).",
+        "1157": 1,
+        "739": 1
+    }
+}

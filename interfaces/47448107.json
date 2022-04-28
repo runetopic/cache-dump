@@ -8,7 +8,7 @@
     "yAlignment": 2,
     "widthAlignment": 0,
     "heightAlignment": 1,
-    "rawX": 0,
+    "rawX": 30,
     "rawY": 0,
     "rawWidth": 25,
     "rawHeight": 15,
@@ -65,7 +65,7 @@
     "textShadowed": false,
     "paddingX": 0,
     "paddingY": 0,
-    "flags": 2,
+    "flags": 6,
     "field3299": false,
     "dataText": "",
     "dragZoneSize": 0,
@@ -95,7 +95,8 @@
     "spriteFlipV": false,
     "spriteFlipH": false,
     "actions": [
-        "Default quantity: All"
+        "*",
+        "Set custom quantity"
     ],
     "itemIds": [
     ],

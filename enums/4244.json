@@ -1,0 +1,21 @@
+{
+    "id": 4244,
+    "keyType": "INTEGER",
+    "valType": "STRING",
+    "defaultString": "Recommended Combat",
+    "defaultInt": 0,
+    "size": 11,
+    "params": {
+        "0": "Classic",
+        "9": "Free/Members",
+        "10": "Type",
+        "2": "Status",
+        "3": "Difficulty",
+        "4": "Length",
+        "5": "Storyline",
+        "6": "Start Location",
+        "7": "Recommended Combat",
+        "8": "Release Date",
+        "1": "Alphabetically"
+    }
+}

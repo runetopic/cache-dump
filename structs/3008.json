@@ -1,12 +1,13 @@
 {
     "id": 3008,
     "params": {
-        "1077": 115,
-        "1078": 0,
-        "1086": "Shift Anti Drag",
-        "1088": "antidrag,anti drag,shift key,anti drag shift key,antidrag shift key,controls",
-        "1096": "When enabled, you can only drag items in your inventory while holding down the shift key.",
-        "1157": 1,
-        "739": 1
+        "1077": 45,
+        "1078": 2,
+        "1086": "Limit Framerate",
+        "1088": "Max frames per second,fps,Basic Display Settings",
+        "1271": 1,
+        "1091": 3504,
+        "1096": "Used to limit the amount of frames that are drawn per second.",
+        "1097": "Used to limit the amount of frames that are drawn per second. Reducing this can increase your battery life."
     }
 }

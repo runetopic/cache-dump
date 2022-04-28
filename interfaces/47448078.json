@@ -9,7 +9,7 @@
     "widthAlignment": 0,
     "heightAlignment": 0,
     "rawX": 13,
-    "rawY": 114,
+    "rawY": 164,
     "rawWidth": 36,
     "rawHeight": 36,
     "x": 0,
@@ -95,7 +95,7 @@
     "spriteFlipV": false,
     "spriteFlipH": false,
     "actions": [
-        "Search"
+        "Shuffle items up"
     ],
     "itemIds": [
     ],

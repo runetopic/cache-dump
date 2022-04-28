@@ -1,0 +1,7 @@
+{
+    "id": 4211,
+    "params": {
+        "1163": "Collection log broadcasts",
+        "1536": "When enabled will send out a notification when a group member receives a new collection log item."
+    }
+}

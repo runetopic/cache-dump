@@ -1,11 +1,11 @@
 {
     "id": 23047,
-    "name": "null",
+    "name": "Fairy ring",
     "width": 1,
     "height": 1,
     "interactType": 1,
     "blockProjectile": true,
-    "int1": 0,
+    "int1": 1,
     "clipType": 0,
     "nonFlatShading": false,
     "modelClipped": false,

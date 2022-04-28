@@ -1,7 +1,7 @@
 {
     "id": 291,
     "model": 2600,
-    "name": "Notes",
+    "name": "Research notes",
     "zoom2d": 1040,
     "xan2d": 380,
     "yan2d": 120,
@@ -9,7 +9,7 @@
     "offsetX2d": 1,
     "offsetY2d": 7,
     "isStackable": 0,
-    "price": 5,
+    "price": 30,
     "isMembersOnly": false,
     "groundActions": [
         "null",
@@ -23,7 +23,7 @@
         "null",
         "null",
         "null",
-        "Drop"
+        "Destroy"
     ],
     "shiftClickIndex": -2,
     "maleModel": -1,

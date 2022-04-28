@@ -4,7 +4,7 @@
     "sprite2": -1,
     "name": "Ruins of<br>Uzer",
     "location": 16777215,
-    "textSize": 0,
+    "textSize": 1,
     "field1758": true,
     "field1759": false,
     "menuActions": [

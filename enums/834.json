@@ -4,7 +4,7 @@
     "valType": "STRING",
     "defaultString": "More rewards",
     "defaultInt": 0,
-    "size": 52,
+    "size": 53,
     "params": {
         "0": "Gargoyle smasher",
         "1": "Slug salter",
@@ -57,6 +57,7 @@
         "48": "Twisted Vision",
         "49": "More at stake",
         "50": "Actual Vampyre Slayer",
-        "51": "Task Storage"
+        "51": "Task Storage",
+        "52": "I Wildy More Slayer"
     }
 }

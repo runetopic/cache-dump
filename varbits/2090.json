@@ -1,6 +1,6 @@
 {
     "id": 2090,
     "index": 720,
-    "leastSignificantBit": 4,
-    "mostSignificantBit": 5
+    "leastSignificantBit": 6,
+    "mostSignificantBit": 8
 }

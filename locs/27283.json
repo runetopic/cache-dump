@@ -33,7 +33,7 @@
     "boolean2": false,
     "breakRouteFinding": false,
     "int3": -1,
-    "transformVarbit": 4153,
+    "transformVarbit": 13677,
     "transformVarp": -1,
     "ambientSoundId": -1,
     "int7": 0,
@@ -43,6 +43,7 @@
     "transforms": [
         14381,
         27284,
+        43496,
         -1
     ],
     "params": {

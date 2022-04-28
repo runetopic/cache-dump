@@ -5,7 +5,7 @@
     "height": 1,
     "interactType": 2,
     "blockProjectile": true,
-    "int1": -1,
+    "int1": 1,
     "clipType": -1,
     "nonFlatShading": false,
     "modelClipped": false,

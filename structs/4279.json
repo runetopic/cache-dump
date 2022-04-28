@@ -1,0 +1,14 @@
+{
+    "id": 4279,
+    "params": {
+        "1085": 1,
+        "1077": 237,
+        "1078": 2,
+        "1091": 2099,
+        "1086": "Anti Drag - Enable Key",
+        "1088": "antidrag,anti drag,shift key,anti drag shift key,antidrag shift key,key,ctrl,control,controls",
+        "1096": "When set, only disables dragging items in your inventory while the key is held down. If no key is set, Anti Drag will always be on.",
+        "1157": 1,
+        "739": 1
+    }
+}

@@ -1,6 +1,6 @@
 {
     "id": 40386,
-    "name": "Cavern",
+    "name": "Crevice",
     "width": 4,
     "height": 2,
     "interactType": 2,
@@ -14,7 +14,7 @@
     "ambient": 0,
     "contrast": 1000,
     "actions": [
-        "Jump Down",
+        "Jump-Down",
         "null",
         "null",
         "null",

@@ -1,6 +1,6 @@
 {
     "id": 3248,
-    "name": "Wizard Distentor",
+    "name": "null",
     "size": 1,
     "idleSequence": 813,
     "turnLeftSequence": -1,
@@ -10,9 +10,9 @@
     "walkLeftSequence": 821,
     "walkRightSequence": 822,
     "actions": [
-        "Talk-to",
         "null",
-        "Teleport",
+        "null",
+        "null",
         "null",
         "null"
     ],
@@ -26,23 +26,20 @@
     "headIconPrayer": -1,
     "rotation": 32,
     "transformVarbit": -1,
-    "transformVarp": -1,
+    "transformVarp": 63,
     "isInteractable": true,
     "isClickable": true,
     "isFollower": false,
     "models": [
-        214,
-        181,
-        250,
-        292,
-        170,
-        176,
-        265,
-        202,
-        534,
-        290
     ],
     "transforms": [
+        11399,
+        11399,
+        11399,
+        11399,
+        11399,
+        11399,
+        11400
     ],
     "params": {
     }

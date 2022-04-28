@@ -88,7 +88,7 @@
     "field3365": 0,
     "rootIndex": -1,
     "cycle": -1,
-    "noClickThrough": false,
+    "noClickThrough": true,
     "noScrollThrough": false,
     "prioritizeMenuEntry": false,
     "type": 0,

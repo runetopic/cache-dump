@@ -1,6 +1,6 @@
 {
     "id": 5288,
-    "name": "Embalmer",
+    "name": "null",
     "size": 1,
     "idleSequence": 808,
     "turnLeftSequence": -1,
@@ -17,31 +17,25 @@
         "null"
     ],
     "drawMapDot": true,
-    "combatLevel": 0,
+    "combatLevel": 1,
     "widthScale": 128,
     "heightScale": 128,
-    "isVisible": true,
+    "isVisible": false,
     "ambient": 0,
     "contrast": 0,
     "headIconPrayer": -1,
     "rotation": 32,
-    "transformVarbit": -1,
+    "transformVarbit": 13843,
     "transformVarp": -1,
     "isInteractable": true,
     "isClickable": true,
     "isFollower": false,
     "models": [
-        6130,
-        251,
-        280,
-        6134,
-        168,
-        176,
-        6135,
-        266,
-        185
     ],
     "transforms": [
+        -1,
+        11518,
+        -1
     ],
     "params": {
     }

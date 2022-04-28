@@ -9,7 +9,7 @@
     "offsetX2d": -1,
     "offsetY2d": 46,
     "isStackable": 0,
-    "price": 83334,
+    "price": 100,
     "isMembersOnly": true,
     "groundActions": [
         "null",
@@ -19,10 +19,10 @@
         "null"
     ],
     "inventoryActions": [
-        "Wield",
-        "Jalsavrah",
-        "Jaleustrophos",
-        "Jaldraocht",
+        "Convert",
+        "null",
+        "null",
+        "null",
         "Drop"
     ],
     "shiftClickIndex": -2,
@@ -38,21 +38,19 @@
     "maleHeadModel2": -1,
     "femaleHeadModel": -1,
     "femaleHeadModel2": -1,
-    "note": 9051,
+    "note": -1,
     "noteTemplate": -1,
     "resizeX": 128,
     "resizeY": 128,
     "resizeZ": 128,
-    "ambient": -25,
+    "ambient": 0,
     "contrast": 0,
     "team": 0,
-    "isTradable": true,
+    "isTradable": false,
     "unnotedId": -1,
     "notedId": -1,
-    "placeholder": 21446,
+    "placeholder": -1,
     "placeholderTemplate": -1,
     "params": {
-        "451": "Teleport",
-        "148": 1
     }
 }

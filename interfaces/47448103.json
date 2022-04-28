@@ -4,11 +4,11 @@
     "childIndex": -1,
     "buttonType": 0,
     "contentType": 0,
-    "xAlignment": 1,
+    "xAlignment": 0,
     "yAlignment": 2,
     "widthAlignment": 0,
     "heightAlignment": 1,
-    "rawX": 0,
+    "rawX": 30,
     "rawY": 0,
     "rawWidth": 25,
     "rawHeight": 15,
@@ -95,7 +95,7 @@
     "spriteFlipV": false,
     "spriteFlipH": false,
     "actions": [
-        "Default quantity: 10"
+        "Default quantity: 5"
     ],
     "itemIds": [
     ],

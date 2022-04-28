@@ -24,7 +24,7 @@
     "ambient": 0,
     "contrast": 0,
     "headIconPrayer": -1,
-    "rotation": 0,
+    "rotation": 32,
     "transformVarbit": 10031,
     "transformVarp": -1,
     "isInteractable": true,

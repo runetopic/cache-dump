@@ -60,7 +60,7 @@
     "text": "Achievement Diaries",
     "text2": "",
     "textLineHeight": 0,
-    "textXAlignment": 0,
+    "textXAlignment": 1,
     "textYAlignment": 1,
     "textShadowed": true,
     "paddingX": 0,

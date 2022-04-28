@@ -1,6 +1,6 @@
 {
     "id": 2886,
-    "name": "Aubury",
+    "name": "null",
     "size": 1,
     "idleSequence": 808,
     "turnLeftSequence": -1,
@@ -10,10 +10,10 @@
     "walkLeftSequence": 821,
     "walkRightSequence": 822,
     "actions": [
-        "Talk-to",
         "null",
-        "Trade",
-        "Teleport",
+        "null",
+        "null",
+        "null",
         "null"
     ],
     "drawMapDot": true,
@@ -26,23 +26,20 @@
     "headIconPrayer": -1,
     "rotation": 32,
     "transformVarbit": -1,
-    "transformVarp": -1,
+    "transformVarp": 63,
     "isInteractable": true,
     "isClickable": true,
     "isFollower": false,
     "models": [
-        14340,
-        238,
-        251,
-        299,
-        19102,
-        151,
-        177,
-        12138,
-        181,
-        18947
     ],
     "transforms": [
+        11434,
+        11434,
+        11434,
+        11434,
+        11434,
+        11434,
+        11435
     ],
     "params": {
     }

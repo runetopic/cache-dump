@@ -1,0 +1,16 @@
+{
+    "id": 4285,
+    "params": {
+        "1077": 233,
+        "1078": 4,
+        "1086": "Minimenu long-press time",
+        "1088": "minimenu,long-press,long,hold",
+        "1096": "The time taken, in milliseconds, to open the minimenu when long-pressing.",
+        "1085": 1,
+        "1157": 1,
+        "740": 1,
+        "1113": "0 ms",
+        "1111": "ms",
+        "1112": "ms"
+    }
+}

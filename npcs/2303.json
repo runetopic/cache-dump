@@ -1,23 +1,23 @@
 {
     "id": 2303,
-    "name": "Oldak",
+    "name": "null",
     "size": 1,
-    "idleSequence": 6040,
+    "idleSequence": 6181,
     "turnLeftSequence": -1,
     "turnRightSequence": -1,
-    "walkSequence": 6041,
+    "walkSequence": 6180,
     "walkBackSequence": -1,
     "walkLeftSequence": -1,
     "walkRightSequence": -1,
     "actions": [
-        "Talk-to",
         "null",
-        "Buy-sphere",
+        "null",
+        "null",
         "null",
         "null"
     ],
     "drawMapDot": true,
-    "combatLevel": 0,
+    "combatLevel": 1,
     "widthScale": 128,
     "heightScale": 128,
     "isVisible": false,
@@ -25,17 +25,17 @@
     "contrast": 0,
     "headIconPrayer": -1,
     "rotation": 32,
-    "transformVarbit": -1,
+    "transformVarbit": 13600,
     "transformVarp": -1,
     "isInteractable": true,
     "isClickable": true,
     "isFollower": false,
     "models": [
-        23671,
-        23707,
-        23629
     ],
     "transforms": [
+        -1,
+        11255,
+        -1
     ],
     "params": {
     }

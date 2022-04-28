@@ -25,7 +25,7 @@
     "contrast": 0,
     "headIconPrayer": -1,
     "rotation": 32,
-    "transformVarbit": 415,
+    "transformVarbit": 418,
     "transformVarp": -1,
     "isInteractable": true,
     "isClickable": true,
@@ -33,6 +33,8 @@
     "models": [
     ],
     "transforms": [
+        4194,
+        4194,
         4194,
         -1
     ],

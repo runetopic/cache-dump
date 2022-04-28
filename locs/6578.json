@@ -1,6 +1,6 @@
 {
     "id": 6578,
-    "name": "Banana Tree",
+    "name": "Tree",
     "width": 2,
     "height": 2,
     "interactType": 2,
@@ -14,7 +14,7 @@
     "ambient": 0,
     "contrast": 0,
     "actions": [
-        "Search",
+        "null",
         "null",
         "null",
         "null",

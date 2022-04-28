@@ -1,6 +1,6 @@
 {
     "id": 10382,
-    "name": "Refugee",
+    "name": "Skully",
     "size": 1,
     "idleSequence": 6284,
     "turnLeftSequence": -1,
@@ -10,10 +10,10 @@
     "walkLeftSequence": -1,
     "walkRightSequence": -1,
     "actions": [
+        "Talk-to",
         "null",
-        "null",
-        "null",
-        "null",
+        "Value",
+        "Settings",
         "null"
     ],
     "drawMapDot": true,

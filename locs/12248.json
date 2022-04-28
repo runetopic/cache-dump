@@ -11,8 +11,8 @@
     "modelClipped": false,
     "animationId": -1,
     "int2": 16,
-    "ambient": 0,
-    "contrast": 0,
+    "ambient": 10,
+    "contrast": 250,
     "actions": [
         "null",
         "null",

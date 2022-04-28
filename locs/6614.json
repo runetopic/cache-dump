@@ -14,9 +14,9 @@
     "ambient": 20,
     "contrast": 250,
     "actions": [
-        "Touch",
-        "null",
         "Open",
+        "null",
+        "null",
         "null",
         "null"
     ],

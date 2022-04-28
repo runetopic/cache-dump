@@ -1,17 +1,17 @@
 {
     "id": 20345,
-    "name": "Bakery stall",
+    "name": "null",
     "width": 2,
     "height": 2,
     "interactType": 2,
     "blockProjectile": true,
-    "int1": -1,
+    "int1": 1,
     "clipType": -1,
     "nonFlatShading": false,
     "modelClipped": false,
     "animationId": -1,
     "int2": 16,
-    "ambient": 15,
+    "ambient": 0,
     "contrast": 0,
     "actions": [
         "null",
@@ -33,7 +33,7 @@
     "boolean2": false,
     "breakRouteFinding": false,
     "int3": -1,
-    "transformVarbit": -1,
+    "transformVarbit": 3275,
     "transformVarp": -1,
     "ambientSoundId": -1,
     "int7": 0,
@@ -41,6 +41,9 @@
     "int6": 0,
     "boolean3": true,
     "transforms": [
+        20349,
+        44031,
+        -1
     ],
     "params": {
     }

@@ -1,7 +1,7 @@
 {
     "id": 13074,
     "model": 16379,
-    "name": "Pharaoh's sceptre (8)",
+    "name": "Pharaoh's sceptre",
     "zoom2d": 1744,
     "xan2d": 285,
     "yan2d": 1508,
@@ -9,7 +9,7 @@
     "offsetX2d": -1,
     "offsetY2d": 46,
     "isStackable": 0,
-    "price": 83334,
+    "price": 100,
     "isMembersOnly": true,
     "groundActions": [
         "null",
@@ -19,10 +19,10 @@
         "null"
     ],
     "inventoryActions": [
-        "Wield",
-        "Jalsavrah",
-        "Jaleustrophos",
-        "Jaldraocht",
+        "Convert",
+        "null",
+        "null",
+        "null",
         "Drop"
     ],
     "shiftClickIndex": -2,
@@ -49,12 +49,8 @@
     "isTradable": false,
     "unnotedId": -1,
     "notedId": -1,
-    "placeholder": 16176,
+    "placeholder": -1,
     "placeholderTemplate": -1,
     "params": {
-        "451": "Jalsavrah",
-        "452": "Jaleustrophos",
-        "453": "Jaldraocht",
-        "148": 1
     }
 }

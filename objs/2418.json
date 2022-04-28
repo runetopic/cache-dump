@@ -9,7 +9,7 @@
     "offsetX2d": -3,
     "offsetY2d": 5,
     "isStackable": 0,
-    "price": 1,
+    "price": 30,
     "isMembersOnly": false,
     "groundActions": [
         "null",
@@ -23,7 +23,7 @@
         "null",
         "null",
         "null",
-        "Drop"
+        "Destroy"
     ],
     "shiftClickIndex": -2,
     "maleModel": -1,

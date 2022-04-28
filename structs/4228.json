@@ -1,0 +1,7 @@
+{
+    "id": 4228,
+    "params": {
+        "1163": "Player defeat broadcasts",
+        "1536": "When enabled will send out a notification when a group member is defeated by another player."
+    }
+}

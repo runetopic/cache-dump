@@ -9,7 +9,7 @@
     "offsetX2d": -6,
     "offsetY2d": 4,
     "isStackable": 0,
-    "price": 1,
+    "price": 2,
     "isMembersOnly": false,
     "groundActions": [
         "null",

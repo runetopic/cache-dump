@@ -9,7 +9,7 @@
     "widthAlignment": 0,
     "heightAlignment": 0,
     "rawX": 13,
-    "rawY": 64,
+    "rawY": 114,
     "rawWidth": 36,
     "rawHeight": 36,
     "x": 0,
@@ -95,7 +95,7 @@
     "spriteFlipV": false,
     "spriteFlipH": false,
     "actions": [
-        "Deposit inventory"
+        "Search"
     ],
     "itemIds": [
     ],

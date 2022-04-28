@@ -4,7 +4,7 @@
     "valType": "STRING",
     "defaultString": "",
     "defaultInt": 0,
-    "size": 52,
+    "size": 53,
     "params": {
         "0": "Automatically smash gargoyles when they're on critical health, if you have the right tool.",
         "1": "Automatically salt rock slugs when they're on critical health, if you have salt.",
@@ -57,6 +57,7 @@
         "48": "Learn how to combine Twisted Horns with your slayer helm to theme it like the Great Olm.",
         "49": "Whenever you get a Vampyre task, it will be a bigger task.",
         "50": "Konar, Duradel, Nieve and Chaeldar will be able to assign Vampyres as your task.",
-        "51": "Gain the ability to store your task for 50 points, allowing you to take it at a later point in time."
+        "51": "Gain the ability to store your task for 50 points, allowing you to take it at a later point in time.",
+        "52": "Krystilia will be able to assign Jellies, Dust Devils, Nechryaels and Abyssal Demons as your task."
     }
 }

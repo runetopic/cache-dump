@@ -1,0 +1,8 @@
+{
+    "id": 4217,
+    "params": {
+        "1537": 1,
+        "1163": "Level-up increments of 5",
+        "1536": "The threshold for notifications to be sent out after every 5th level-up gained by a group member, starting from this value."
+    }
+}
