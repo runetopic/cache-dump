@@ -1,15 +1,15 @@
 {
     "id": 26983,
-    "model": 596,
-    "name": "Lion helm",
-    "zoom2d": 3000,
-    "xan2d": 512,
+    "model": 2521,
+    "name": "Null",
+    "zoom2d": 1940,
+    "xan2d": 572,
     "yan2d": 0,
     "zan2d": 0,
     "offsetX2d": 0,
-    "offsetY2d": 0,
+    "offsetY2d": 1,
     "isStackable": 0,
-    "price": 0,
+    "price": 1,
     "isMembersOnly": false,
     "groundActions": [
         "null",
@@ -49,8 +49,8 @@
     "isTradable": false,
     "unnotedId": -1,
     "notedId": -1,
-    "placeholder": 26981,
-    "placeholderTemplate": 14401,
+    "placeholder": -1,
+    "placeholderTemplate": -1,
     "params": {
     }
 }

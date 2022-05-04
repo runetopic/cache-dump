@@ -21,7 +21,7 @@
     "inventoryActions": [
         "null",
         "Wear",
-        "null",
+        "Teleport",
         "null",
         "Destroy"
     ],
@@ -52,5 +52,6 @@
     "placeholder": 26915,
     "placeholderTemplate": -1,
     "params": {
+        "451": "Teleport"
     }
 }
