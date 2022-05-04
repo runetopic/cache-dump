@@ -65,9 +65,9 @@
     "textShadowed": false,
     "paddingX": 0,
     "paddingY": 0,
-    "flags": 0,
+    "flags": 2,
     "field3299": false,
-    "dataText": "",
+    "dataText": "name change",
     "dragZoneSize": 0,
     "dragThreshold": 0,
     "isScrollBar": false,
@@ -95,6 +95,7 @@
     "spriteFlipV": false,
     "spriteFlipH": false,
     "actions": [
+        "Don't redeem"
     ],
     "itemIds": [
     ],

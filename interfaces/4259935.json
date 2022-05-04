@@ -6,11 +6,11 @@
     "contentType": 0,
     "xAlignment": 0,
     "yAlignment": 0,
-    "widthAlignment": 0,
+    "widthAlignment": 1,
     "heightAlignment": 0,
-    "rawX": 20,
+    "rawX": 0,
     "rawY": 0,
-    "rawWidth": 85,
+    "rawWidth": 0,
     "rawHeight": 30,
     "x": 0,
     "y": 0,
@@ -65,7 +65,7 @@
     "textShadowed": false,
     "paddingX": 0,
     "paddingY": 0,
-    "flags": 0,
+    "flags": 14,
     "field3299": false,
     "dataText": "",
     "dragZoneSize": 0,
@@ -95,6 +95,9 @@
     "spriteFlipV": false,
     "spriteFlipH": false,
     "actions": [
+        "Withdraw-1",
+        "Withdraw-X",
+        "Withdraw-All"
     ],
     "itemIds": [
     ],
