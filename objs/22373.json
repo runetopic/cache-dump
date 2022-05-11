@@ -10,7 +10,7 @@
     "offsetY2d": 2,
     "isStackable": 1,
     "price": 7000,
-    "isMembersOnly": true,
+    "isMembersOnly": false,
     "groundActions": [
         "null",
         "null",
