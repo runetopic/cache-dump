@@ -8,7 +8,7 @@
     "zan2d": 0,
     "offsetX2d": -1,
     "offsetY2d": 0,
-    "isStackable": 0,
+    "isStackable": 1,
     "price": 1,
     "isMembersOnly": false,
     "groundActions": [
