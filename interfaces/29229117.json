@@ -9,7 +9,7 @@
     "widthAlignment": 0,
     "heightAlignment": 0,
     "rawX": 0,
-    "rawY": 200,
+    "rawY": 40,
     "rawWidth": 37,
     "rawHeight": 37,
     "x": 0,
@@ -65,7 +65,7 @@
     "textShadowed": false,
     "paddingX": 0,
     "paddingY": 0,
-    "flags": 0,
+    "flags": 2,
     "field3299": false,
     "dataText": "",
     "dragZoneSize": 0,
@@ -95,6 +95,7 @@
     "spriteFlipV": false,
     "spriteFlipH": false,
     "actions": [
+        "*"
     ],
     "itemIds": [
     ],
