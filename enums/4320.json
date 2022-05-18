@@ -1,0 +1,14 @@
+{
+    "id": 4320,
+    "keyType": "LOC",
+    "valType": "ENUM",
+    "defaultString": "null",
+    "defaultInt": -1,
+    "size": 4,
+    "params": {
+        "6660": 4322,
+        "30482": 4323,
+        "30480": 4323,
+        "30481": 4323
+    }
+}
