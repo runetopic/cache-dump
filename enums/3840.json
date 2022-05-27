@@ -4,12 +4,13 @@
     "valType": "GRAPHIC",
     "defaultString": "null",
     "defaultInt": 3338,
-    "size": 5,
+    "size": 6,
     "params": {
         "1": 3339,
         "2": 3340,
         "3": 3344,
         "4": 3342,
-        "5": 3343
+        "5": 3343,
+        "6": 3342
     }
 }

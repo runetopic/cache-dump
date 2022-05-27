@@ -4,12 +4,13 @@
     "valType": "STRING",
     "defaultString": "Chat-channel",
     "defaultInt": 0,
-    "size": 5,
+    "size": 6,
     "params": {
         "1": "Your Clan",
         "2": "View another clan",
         "3": "Grouping",
         "4": "Iron Group",
-        "5": "Hardcore Iron Group"
+        "5": "Hardcore Iron Group",
+        "6": "Iron Group"
     }
 }
