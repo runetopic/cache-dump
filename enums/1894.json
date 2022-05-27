@@ -4,12 +4,13 @@
     "valType": "STRING",
     "defaultString": "",
     "defaultInt": 0,
-    "size": 5,
+    "size": 6,
     "params": {
         "1": "<img=2>",
         "2": "<img=3>",
         "3": "<img=10>",
         "4": "<img=41>",
-        "5": "<img=42>"
+        "5": "<img=42>",
+        "6": "<img=41>"
     }
 }

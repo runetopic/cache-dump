@@ -91,7 +91,7 @@
     "noClickThrough": false,
     "noScrollThrough": false,
     "prioritizeMenuEntry": false,
-    "type": 5,
+    "type": 0,
     "spriteFlipV": false,
     "spriteFlipH": false,
     "actions": [
