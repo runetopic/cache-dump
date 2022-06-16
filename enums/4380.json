@@ -1,0 +1,16 @@
+{
+    "id": 4380,
+    "keyType": "INTEGER",
+    "valType": "STRING",
+    "defaultString": "Show all",
+    "defaultInt": 0,
+    "size": 6,
+    "params": {
+        "0": "Show all",
+        "1": "Show all items",
+        "2": "Show all moulds",
+        "3": "Show forte moulds",
+        "4": "Show blade moulds",
+        "5": "Show tip moulds"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "id": 4372,
+    "keyType": "INTEGER",
+    "valType": "STRING",
+    "defaultString": "",
+    "defaultInt": 0,
+    "size": 6,
+    "params": {
+        "1": "Narrow",
+        "2": "Light",
+        "3": "Flat",
+        "4": "Broad",
+        "5": "Heavy",
+        "6": "Spiked"
+    }
+}

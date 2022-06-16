@@ -1,6 +1,6 @@
 {
     "id": 33309,
-    "name": "Buckets",
+    "name": "Pile of Buckets",
     "width": 1,
     "height": 1,
     "interactType": 1,
@@ -14,7 +14,7 @@
     "ambient": 15,
     "contrast": 0,
     "actions": [
-        "Take",
+        "Take-from",
         "null",
         "null",
         "null",
