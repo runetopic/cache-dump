@@ -4,7 +4,7 @@
     "valType": "STRING",
     "defaultString": "",
     "defaultInt": 0,
-    "size": 722,
+    "size": 723,
     "params": {
         "1": "Scape Original",
         "2": "Scape Main",
@@ -727,6 +727,7 @@
         "719": "Ruins of Isolation",
         "720": "The Forgotten Tomb",
         "721": "Thrall of the Devourer",
-        "722": "The Pharaoh"
+        "722": "The Pharaoh",
+        "723": "The Foundry"
     }
 }

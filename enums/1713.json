@@ -4,7 +4,7 @@
     "valType": "STRING",
     "defaultString": "",
     "defaultInt": 0,
-    "size": 111,
+    "size": 114,
     "params": {
         "1117": "Agility shortcut",
         "1098": "Agility training",
@@ -116,6 +116,9 @@
         "1459": "Death's Office",
         "1499": "Distraction & Diversion",
         "1551": "Clan Hub",
-        "1579": "Combat Achievements"
+        "1579": "Combat Achievements",
+        "1641": "Trip Hammer",
+        "1642": "Grindstone",
+        "1643": "Polishing wheel"
     }
 }

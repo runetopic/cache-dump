@@ -4,7 +4,7 @@
     "valType": "STRING",
     "defaultString": "",
     "defaultInt": 0,
-    "size": 46,
+    "size": 47,
     "params": {
         "0": "",
         "1": "<col=ffffff>Ahrim The Blighted:<br><br>Blighted Aura:<br><br>Magic Attacks have a 25% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>",
@@ -51,6 +51,7 @@
         "36": "<col=ffffff>Maoma's Elite set<br><br>Gain a +30% boost to your melee accuracy.<br>Gain a +5% boost to your melee damage.",
         "37": "<col=ffffff>Koriff's coif set:<br><br>Gain a +25% boost to your ranged accuracy.<br>Gain a +12.5% boost to your ranged damage.",
         "38": "<col=ffffff>Saika's shroud<br><br>Gain a +60% boost to your magic accuracy.<br>Gain a +5% boost to your magic damage.",
-        "39": "<col=ffffff>Raiments of the Eye:<br><br>Runes crafted are increased by 60%.<br><br>This bonus stacks additively with other similar effects.<br><br>"
+        "39": "<col=ffffff>Raiments of the Eye:<br><br>Runes crafted are increased by 60%.<br><br>This bonus stacks additively with other similar effects.<br><br>",
+        "40": "<col=ffffff>Smiths Uniform:<br><br>The full set increases the rate you will smith items at an anvil by 1 tick.<br><br>"
     }
 }

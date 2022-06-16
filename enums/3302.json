@@ -4,7 +4,7 @@
     "valType": "STRING",
     "defaultString": "Costume",
     "defaultInt": 0,
-    "size": 659,
+    "size": 660,
     "params": {
         "4089": "Mystic robes",
         "4099": "Mystic robes (dark)",
@@ -79,6 +79,7 @@
         "26866": "Raiments of the Eye (Green)",
         "26860": "Raiments of the Eye (Red)",
         "26872": "Raiments of the Eye (Blue)",
+        "27023": "Smiths' Uniform",
         "4071": "Castle Wars Decorative armour (1)",
         "4506": "Castle Wars Decorative armour (2)",
         "4511": "Castle Wars Decorative armour (3)",
